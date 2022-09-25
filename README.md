@@ -4,7 +4,8 @@
 1- SGoptimizer is the implementation of Stochastic gradient descent algorithm from scratch , generally gardient descent works as the following equation 
 
 
-W = W-alpha*dW
+W = W-alpha*dW,
+
 B= B-alpha*dB
 
 where W : is the weights 
